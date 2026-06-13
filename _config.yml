@@ -4,5 +4,3 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 title: The personal webpage of Ehsan Farzadnia
 description: In this page, I show my recent activities in academica...
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
